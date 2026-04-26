@@ -4,3 +4,6 @@
 1.开启开发者选项
 
 2.在开发者选项最底部位置，选择模拟位置信息应用，添加fakelocation
+
+别人的更方便的网页版
+https://unirun.pages.dev/
